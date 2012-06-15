@@ -3,7 +3,7 @@ Countly is an innovative, real-time, open source mobile analytics application. I
 
 Below you can find Countly SDK repositories;
 
-- [Countly Frontend Server (Countly-Frontend)](https://github.com/gabrielrinaldi/Countly-Frontend)
+- [Countly Frontend Server (Countly-Frontend)](https://github.com/gabrielrinaldi/Countly-Frontend-Heroku)
 - [Countly Android SDK (countly-sdk-android)](https://github.com/Countly/countly-sdk-android)
 - [Countly iOS SDK (countly-sdk-ios)](https://github.com/Countly/countly-sdk-ios)
 
