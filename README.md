@@ -9,7 +9,7 @@ Below you can find Countly SDK repositories;
 
 ##How do I install Countly API Server on Heroku?
 
-1. Create a Heroku server
+1. Create a Heroku server (Cedar)
 2. Add MongoLab plugin
 3. Configure this repository to push to Heroku
 4. Run `heroku config`
@@ -30,7 +30,7 @@ Countly offers integration with world's two leading smartphones, Android and iOS
 ##How can I help you with your efforts?
 Glad you asked. We need ideas, feedbacks and constructive comments. All your suggestions will be taken care with upmost importance.
 
-[Twitter](http://twitter.com/gabriel_rinaldi)
+My [Twitter](http://twitter.com/gabriel_rinaldi)
 
 Countly is also on [Twitter](http://twitter.com/gocountly) (Original) and [Facebook](http://www.facebook.com/Countly), if you would like to keep up with their fast progress!
 
