@@ -1,6 +1,6 @@
 var http = require('http'),
 	url = require('url'),
-	geoip = require('geoip-lite'),
+	geoip = require('geoip-lite-with-city-data'),
 	moment = require('moment'),
 	time = require('time'),
 	crypto = require('crypto'),
