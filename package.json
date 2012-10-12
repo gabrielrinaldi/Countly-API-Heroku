@@ -8,6 +8,7 @@
   "dependencies": {
     "moment": "1.6.2",
     "mongoskin": "0.3.6",
-    "geoip-lite": "1.0.8"
+    "geoip-lite": "1.0.8",
+    "time": "0.8.2"
   }
 }
