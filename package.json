@@ -1,14 +1,17 @@
 {
   "name": "countlyapi",
-  "version": "12.05.0",
+  "version": "13.06.0",
   "engines": {
-    "node": "0.8.x",
-    "npm": "1.1.x"
+    "node": "0.10.x",
+    "npm": "1.2.x"
   },
   "dependencies": {
-    "moment": "1.6.2",
-    "mongoskin": "0.3.6",
     "geoip-lite-with-city-data": "1.0.5",
-    "time": "0.8.2"
+    "moment": "1.7.2",
+    "mongoskin": "0.5.0",
+    "nodemailer": "0.4.4",
+    "request": "2.21.0",
+    "time": "0.9.2",
+    "underscore": "1.4.4"
   }
 }
