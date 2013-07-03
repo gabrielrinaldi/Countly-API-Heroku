@@ -34,6 +34,7 @@ Below you can find Countly SDK repositories;
 Countly write and read API. Waits for write requests from the iOS/Android SDKs and read requests from the countly js helpers. Refer to [Countly Server API Reference](https://github.com/Countly/countly-server/wiki/Countly-Server-API-Reference) for details.
 
 ##How can I help you with your efforts?
+
 Glad you asked. We need ideas, feedbacks and constructive comments. All your suggestions will be taken care with upmost importance.
 
 My [Twitter](http://twitter.com/gabriel_rinaldi)
