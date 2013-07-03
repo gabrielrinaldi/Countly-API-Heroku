@@ -1,6 +1,6 @@
 var usage = {},
     common = require('./../../utils/common.js'),
-    geoip = require('geoip-static');
+    geoip = require('geoip-lite-with-city-data');
 
 (function (usage) {
 

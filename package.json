@@ -6,7 +6,7 @@
     "npm": "1.2.x"
   },
   "dependencies": {
-    "geoip-static": "0.4.6",
+    "geoip-lite-with-city-data": "1.0.5",
     "moment": "1.7.2",
     "mongoskin": "0.5.0",
     "nodemailer": "0.4.4",
